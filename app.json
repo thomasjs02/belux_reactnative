@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "belux",
+    "name": "Belux",
+    "description": "Lifestyle Management and More",
     "slug": "belux",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,7 +18,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kwagu.belux"
     },
     "android": {
       "adaptiveIcon": {
